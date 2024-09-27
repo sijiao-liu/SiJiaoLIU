@@ -1,7 +1,7 @@
 # About Me
 👋 Hi there! I'm a Data Analyst with over 5 years of experience specializing in data analysis and visualization across public service and education sectors.
 
-🔍 I leverage tools like R and Python to deliver actionable insights and automate reporting processes, enhancing decision-making. My expertise includes advanced data cleaning, statistical modeling, and dynamic report creation using Excel Power Query.
+🔍 I leverage tools like R, Python, SQL to deliver actionable insights and automate reporting processes, enhancing decision-making. My expertise includes advanced data cleaning, statistical modeling, and dynamic report creation using Excel Power Query.
 
 📊 Passionate about transforming complex data into clear narratives, I collaborate effectively with cross-functional teams to drive operational efficiency and strategic initiatives.
 
